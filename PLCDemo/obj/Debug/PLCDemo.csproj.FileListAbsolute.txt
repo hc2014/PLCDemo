@@ -1,0 +1,10 @@
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\obj\Debug\PLCDemo.csproj.AssemblyReference.cache
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\obj\Debug\PLCDemo.Properties.Resources.resources
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\obj\Debug\PLCDemo.csproj.GenerateResource.cache
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\obj\Debug\PLCDemo.csproj.CoreCompileInputs.cache
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\bin\Debug\PLCDemo.exe.config
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\bin\Debug\PLCDemo.exe
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\bin\Debug\PLCDemo.pdb
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\obj\Debug\PLCDemo.Form1.resources
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\obj\Debug\PLCDemo.exe
+C:\Users\hc\source\repos\PLCDemo\PLCDemo\obj\Debug\PLCDemo.pdb
