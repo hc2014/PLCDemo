@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace PLCDemo
 {
     public static class Modbus
-    {
+    { 
         //============================
         // 标准 CRC16（Modbus）
         //============================
